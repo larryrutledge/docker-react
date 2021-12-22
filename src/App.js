@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there! This is a test - now using Docker Compose - with tests included
+          Hi there! This is a test - now using Docker Compose - ELASTIC BEAN STALK AUTO DEPLOY
         </p>
         <a
           className="App-link"
