@@ -1,0 +1,21 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+.vscode
+
+# Cruft
+.DS_Store
+npm-debug.log*
+.idea
+
+# ENV vars
+.env
+
+# Cypress
+cypress/screenshots
+cypress/videos 
+
+# Local Netlify folder
+.netlify
